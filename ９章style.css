@@ -84,14 +84,17 @@ footer {
 
   .step-box {
     width: 100%;
-    margin: 0;
+    margin: 20px;
   }
 
   .step-box-image {
-    width: 100%;
+    width: 90%;
   }
 
   .step-box {
-    width: 100%;
+    width: 90%;
     padding-top: 50px;
+    margin-bottom: 20px;
   }
+
+  
